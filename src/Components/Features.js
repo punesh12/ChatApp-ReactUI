@@ -16,11 +16,11 @@ function Features() {
         <div class="flex-grow pl-6">
           <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Easy to Use</h2>
           <p class="leading-relaxed text-base">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium optio error cupiditate recusandae inventore esse exercitationem earum sit nam consequuntur?</p>
-          <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+          <p class="mt-3 text-indigo-500 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
-          </a>
+          </p>
         </div>
       </div>
       <div class="p-4 md:w-1/3 flex">
@@ -34,11 +34,11 @@ function Features() {
         <div class="flex-grow pl-6">
           <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Design and Branding</h2>
           <p class="leading-relaxed text-base">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis corrupti error laudantium fuga tempore ex corporis neque doloremque ducimus quisquam.</p>
-          <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+          <p class="mt-3 text-indigo-500 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
-          </a>
+          </p>
         </div>
       </div>
       <div class="p-4 md:w-1/3 flex">
@@ -51,11 +51,11 @@ function Features() {
         <div class="flex-grow pl-6">
           <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Privacy and Security</h2>
           <p class="leading-relaxed text-base">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab inventore eius eos deserunt autem vitae aperiam quaerat unde animi rem?</p>
-          <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+          <p class="mt-3 text-indigo-500 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
-          </a>
+          </p>
         </div>
       </div>
     </div>
