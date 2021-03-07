@@ -1,4 +1,5 @@
-## A Chat App frontend in ReactJS usng TailwindCSS.
+## A simple Chat App frontend in ReactJS usng TailwindCSS.
+https://elated-northcutt-56897d.netlify.app/
 
 # Getting Started with Create React App
 
